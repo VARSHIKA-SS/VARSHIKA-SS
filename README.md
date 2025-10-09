@@ -1,33 +1,34 @@
-👋 Hi there, I'm Varshika
-🎓 3rd Year CSE Student | Passionate About Technology, Problem-Solving & Continuous Learning
+# 👋 Hi there, I'm Varshika  
 
-🚀 About Me
-I’m a Computer Science Engineering student with a strong interest in technology, innovation, and building practical solutions. Along with strengthening my core skills in programming, DBMS, and problem-solving, I am also passionate about creating projects that truly help the needy and make a real-world impact. Recently, I’ve been working on academic projects involving Java Swing + DBMS and task management systems, while also practicing aptitude and reasoning to build strong analytical foundations.
+**🎓 3rd Year CSE Student | Passionate About Technology, Problem-Solving & Continuous Learning**  
 
-🛠️ Skills & Tools
+---
 
-Programming Languages: C, Java, Python (basic)
+## 🚀 About Me  
+- 💡 Passionate about technology, innovation, and building practical solutions  
+- 🎯 Interested in creating **social-impact projects that help the needy**  
+- 📚 Focused on strengthening **programming, DBMS, and problem-solving skills**  
+- 🔎 Actively practicing **aptitude & reasoning** to build strong analytical foundations  
 
-CS Foundations: DBMS, Data Structures & Algorithms, Operating Systems (learning), Computer Networks
+---
 
-Web Technologies: HTML & CSS (internship exposure)
+## 🛠️ Skills & Tools  
+- 💻 Programming Languages: **C, Java, Python**  
+- 🧠 CS Foundations: **DBMS, Data Structures & Algorithms, Operating Systems , Computer Networks**  
+- 🌐 Web Technologies: **HTML & CSS (via internship exposure)**  
+- 📊 Analytics & Visualization: **Beginner in Power BI**  
+- 🛠️ Tools: **Git, GitHub, VS Code, MySQL**  
 
-Analytics & Visualization: Beginner in Power BI
+---
 
-Tools: Git & GitHub, VS Code, MySQL
+## 📊 Current Focus  
+- 💻 Practicing coding, aptitude, and reasoning for placements  
+- 🎨 Exploring **front-end design (UI/UX principles)**  
+- 🌍 Working on **social-impact ideas** that make a real-world difference  
 
-📊 Current Focus
+---
 
-Practicing coding, aptitude, and reasoning for placements
-
-Exploring front-end design (Java AWT/Swing, UI/UX principles)
-
-Working on social-impact projects that can genuinely help the needy
-
-📫 Connect With Me
-
-www.linkedin.com/in/varshika-sudalai-murthy-shenbagavel-84533b2a4
-
-HackerRank-https://www.hackerrank.com/profile/varshika8172
-
-CodeChef-https://www.codechef.com/users/varsh_8172
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshika-sudalai-murthy-shenbagavel-84533b2a4)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varshika8172)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/varsh_8172)  
