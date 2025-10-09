@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me  
-- 💡 Passionate about technology, innovation, and building practical solutions  
+- 💡 Passionate about technology, innovation, and building practical solutions
+- 🌐 Recently completed a **Web Development internship at SkillCraft**  
 - 🎯 Interested in creating **social-impact projects that help the needy**  
 - 📚 Focused on strengthening **programming, DBMS, and problem-solving skills**  
 - 🔎 Actively practicing **aptitude & reasoning** to build strong analytical foundations  
