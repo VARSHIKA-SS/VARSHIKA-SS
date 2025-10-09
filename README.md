@@ -26,7 +26,7 @@ Working on social-impact projects that can genuinely help the needy
 
 📫 Connect With Me
 
-LinkedIn-www.linkedin.com/in/varshika-sudalai-murthy-shenbagavel-84533b2a4
+www.linkedin.com/in/varshika-sudalai-murthy-shenbagavel-84533b2a4
 
 HackerRank-https://www.hackerrank.com/profile/varshika8172
 
