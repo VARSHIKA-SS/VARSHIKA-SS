@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Varshika  
 
-**🎓 3rd Year CSE Student | Passionate About Technology, Problem-Solving & Continuous Learning**  
+**🎓 4rth Year CSE Student | Passionate About Technology, Problem-Solving & Continuous Learning**  
 
 ---
 
