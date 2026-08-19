@@ -1,31 +1,34 @@
 # 👋 Hi there, I'm Varshika  
 
-**🎓 4rth Year CSE Student | Passionate About Technology, Problem-Solving & Continuous Learning**  
+**🎓 4th Year CSE Student | Aspiring Software Engineer | Passionate About Technology, Problem-Solving & Continuous Learning**  
 
 ---
 
 ## 🚀 About Me  
-- 💡 Passionate about technology, innovation, and building practical solutions
-- 🌐 Recently completed a **Web Development internship at SkillCraft**  
-- 🎯 Interested in creating **social-impact projects that help the needy**  
-- 📚 Focused on strengthening **programming, DBMS, and problem-solving skills**  
-- 🔎 Actively practicing **aptitude & reasoning** to build strong analytical foundations  
+- 💻 Passionate about **software development, problem-solving, and building practical solutions**
+- ☕ Currently strengthening my **Java, Data Structures & Algorithms** skills
+- 🧠 Actively practicing **LeetCode & NeetCode** to improve my coding and analytical abilities
+- 📚 Focused on strengthening **Java, DBMS, OOP, and core Computer Science fundamentals**
+- 🎯 Preparing for **software engineering placements and technical interviews**
 
 ---
 
 ## 🛠️ Skills & Tools  
-- 💻 Programming Languages: **C, Java, Python**  
-- 🧠 CS Foundations: **DBMS, Data Structures & Algorithms, Operating Systems , Computer Networks**  
-- 🌐 Web Technologies: **HTML & CSS (via internship exposure)**  
-- 📊 Analytics & Visualization: **Beginner in Power BI**  
-- 🛠️ Tools: **Git, GitHub, VS Code, MySQL**  
+- 💻 Programming Languages: **Java, Python, C**
+- 🧠 CS Foundations: **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks**
+- 🌐 Web Technologies: **HTML, CSS, JavaScript, Angular**
+- 🗄️ Database: **MySQL**
+- 🛠️ Tools: **Git, GitHub, VS Code**
+- 📊 Data & Big Data: **PySpark, Power BI**
 
 ---
 
 ## 📊 Current Focus  
-- 💻 Practicing coding, aptitude, and reasoning for placements  
-- 🎨 Exploring **front-end design (UI/UX principles)**  
-- 🌍 Working on **social-impact ideas** that make a real-world difference  
+- 💻 Practicing **Java, DSA, LeetCode & NeetCode** consistently
+- 🎯 Preparing for **placements, coding rounds, aptitude & technical interviews**
+- 🏗️ Building and improving **practical software projects**
+- 📚 Strengthening **core Computer Science concepts**
+- 🚀 Continuously learning and growing towards becoming a **skilled software engineer**
 
 ---
 
